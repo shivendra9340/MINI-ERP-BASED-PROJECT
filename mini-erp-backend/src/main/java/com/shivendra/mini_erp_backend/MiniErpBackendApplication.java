@@ -8,6 +8,8 @@ public class MiniErpBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MiniErpBackendApplication.class, args);
+		int i=10
+			System.out.println(i);
 	}
 
 }
